@@ -2,26 +2,7 @@
 
 I'm a passionate Full Stack Developer & CS Student who loves building real-world projects, solving problems, and learning modern tech stacks.
 
-🔭 Built Projects: Swiggy Clone, Rentify Rental App
-
-🌱 Learning: Node.js, MongoDB, Advanced React Patterns
-
-👯 Open to collaborating on Open Source Projects
-
-⚡ Fun fact: I can spend hours perfecting a UI and not even realize it! 🎨
-
-<br />
-🛠️ Tech Stack and Tools
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,mongodb,git,github" width="70%" /> </div> <br />
-🚀 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prakash-kundula&show_icons=true&theme=radical" height="180px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash-kundula&layout=compact&theme=radical" height="180px"/> </div> <br />
-📫 Connect With Me
-<div align="center"> <a href=👋 Hi, I'm Prakash Kundula!
-"Turning coffee ☕ into scalable apps 🚀"
-
-I'm a passionate Full Stack Developer & CS Student who loves building real-world projects, solving problems, and learning modern tech stacks.
-
-🔭 Currently building: Swiggy Clone, Rentify Rental App
+🔭 Projects worked on: Swiggy Clone, Rentify Rental App
 
 🌱 Learning: Node.js, MongoDB, Advanced React Patterns
 
